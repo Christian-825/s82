@@ -161,5 +161,6 @@ p {
 }
 
 .map-frame {
-  height: ;
+  height: 320px;
+  width: 100%;
 }
